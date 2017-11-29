@@ -1,0 +1,14 @@
+__________               .__         .___________   
+\______   \_____    _____|  |__      |   \______ \  
+ |    |  _/\__  \  /  ___/  |  \     |   ||    |  \ 
+ |    |   \ / __ \_\___ \|   Y  \    |   ||    `   \
+ |______  /(____  /____  >___|  / /\ |___/_______  /
+        \/      \/     \/     \/  \/             \/ 
+
+ |
+ |
+ |
+ |__ >  root@bash.id ~ $ whoami
+		        $ Group for discussing scripting for bash, sh, zsh or any other shell in the GNU/Linux . Share your shell script maybe for pentest & tips here and help other to work through 			 		         scripting problem
+|
+ |__ >	root@bash.id ~ $ Kulgram Bash.ID  { 0x01 }    
