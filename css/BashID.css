@@ -1,1 +1,26 @@
 
+body {
+
+	background: #000000;
+	font-family: verdana;
+	font-size: 11px;
+	margin: 0;
+	padding: 0;
+	height: 100%
+}
+bolds {
+    text-decoration: none; 
+	font-style:normal; 
+	color: #red;
+	font-size: 11px;
+}
+
+t {
+	text-decoration: none; 
+	font-style:normal; 
+	color: #fff;
+	font-size: 11px;
+}
+pre {
+    color: green;
+}
