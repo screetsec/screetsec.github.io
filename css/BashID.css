@@ -1,9 +1,9 @@
-
 body {
 
 	background: #000000;
 	font-family: verdana;
-	font-size: 11px;
+	font-size: 15px;
+	text-align:center;
 	margin: 0;
 	padding: 0;
 	height: 100%
@@ -15,12 +15,41 @@ bolds {
 	font-size: 11px;
 }
 
-t {
-	text-decoration: none; 
+h3 {
+	
+}
+
+p { 
+	font-family: Courier new;
 	font-style:normal; 
 	color: #fff;
-	font-size: 11px;
+	font-size: 12px;
+}
+
+t {	
+	font-family: Courier new;
+	font-style:bold; 
+	color: green;
+	font-size: 13px;
 }
 pre {
     color: green;
+
+	 margin-top: 10%;
+}
+.column {
+    float: left;
+    width: 31.33%;
+    padding: 11px;
+    font-family: Courier new;
+	color: green;
+	font-size: 13px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
